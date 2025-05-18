@@ -75,7 +75,7 @@ namespace MvcMovie.Models
                             ReleaseDate = DateTime.Parse("2008-7-18"),
                             Genre = "Action",
                             Price = 15.99M
-                    } 
+                    }
                     );
 
                 context.SaveChanges();
